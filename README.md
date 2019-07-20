@@ -1,1 +1,1 @@
-# Assignments in Machine Learning Class @Integrify
+# Machine Learning Assignments --@Integrify
